@@ -43,7 +43,6 @@ because our test frame work, Capybara, requires buttons to be
    Upon submission, pass the submitted data to the `team.erb` template.
 
 5. Final Output
-
    Update the `team.erb` template so when you post to this form, it displays
    the name of the team and each member of the team.
 
